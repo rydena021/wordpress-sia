@@ -10,3 +10,6 @@ RewriteRule . /wordpress-sia/index.php [L]
 </IfModule>
 
 # END WordPress
+
+php_value max_execution_time 180
+php_value max_input_vars 1500
