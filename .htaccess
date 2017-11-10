@@ -12,4 +12,4 @@ RewriteRule . /wordpress-sia/index.php [L]
 # END WordPress
 
 php_value max_execution_time 180
-php_value max_input_vars 1500
+php_value max_input_vars 1920
